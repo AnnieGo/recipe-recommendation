@@ -15,7 +15,7 @@ All work is divided into three stages: research (using Jupyter Notebook - recipe
 This program is a Python script (nutritionist.py).
 
 It takes a list of ingredients as input.
-It creates a prediction and gives a rating with a score (bad, normal, tasty) for a dish that can be prepared based on the list of ingredients passed in.
+It creates a prediction and gives a rating with a score (bad, so-so, great) for a dish that can be prepared based on the list of ingredients passed in.
 It finds and displays information about all the nutrients (protein, fat, sodium, etc.) of foods from the list, as well as their amount as a percentage of the daily intake.
 It displays three recipes that use the maximum number of products from the list, with their rating and links where the user can find complete information.
 
