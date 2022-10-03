@@ -1,0 +1,36 @@
+Nutrient initial,Nutrient_rename,daily_norm
+Vitamin A,"Vitamin A, IU",900
+Vitamin C,"Vitamin C, total ascorbic acid",90
+Calcium,"Calcium, Ca",1300
+Iron,"Iron, Fe",18
+Vitamin D,Vitamin D (D2 + D3),20
+Vitamin E,Vitamin E (alpha-tocopherol),15
+Vitamin K,Vitamin K (phylloquinone),120
+Thiamin,Thiamin,1.2
+Riboflavin,Riboflavin,1.3
+Niacin,Niacin,16
+Vitamin B6,Vitamin B-6,1.7
+Folate6,"Folate, total",400
+Vitamin B12,Vitamin B-12,2.4
+Biotin,Biotin,30
+Pantothenic acid,Pantothenic acid,5
+Phosphorus,"Phosphorus, P",1250
+Iodine,"Iodine, I",150
+Magnesium,"Magnesium, Mg",420
+Zinc,"Zinc, Zn",11
+Selenium,"Selenium, Se",55
+Copper,"Copper, Cu",0.9
+Manganese,"Manganese, Mn",2.3
+Chromium,"Chromium, Cr",35
+Molybdenum,"Molybdenum, Mo",45
+Chloride,"Chloride, Cl",2300
+Potassium,"Potassium, K",4700
+Choline,"Choline, total",550
+Fat,Total lipid (fat),78
+Saturated fat,"Fatty acids, total saturated",20
+Cholesterol,Cholesterol,300
+Total carbohydrates,"Carbohydrate, by difference",275
+Sodium,"Sodium, Na",2300
+Dietary Fiber,"Fiber, total dietary",28
+Protein,Protein,50
+Added sugars,"Added Sugars, total including NLEAs",50
