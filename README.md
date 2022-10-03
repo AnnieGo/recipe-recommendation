@@ -27,6 +27,5 @@ Additional methods have been added to the classes that will help the script perf
 The daily menu randomly lists the three recipes that cover the most nutritional needs (% of Daily Nutritional Value) and have the highest overall score.
 
 <b> Tools </b>
-1. Python, pandas, numpy, scikit-learn, joblib, requests, BeautifulSoup
-2. Matplotlib
-3. Jupyter Notebook, Pycharm
+* Python, pandas, numpy, scikit-learn, joblib, requests, BeautifulSoup
+* Jupyter Notebook, Pycharm
